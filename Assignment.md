@@ -58,20 +58,30 @@
 
 ### A. Milestones and Issues
 
-![Milestones and Issues](images/milestones-issues.png)  
+#### Milestone 1 and its Issues  
+
+![Milestone 1](images/milestone1.png)  
+![Milestone 1 Issues](images/milestone1issues.png)
+
+#### Milestone 2 and its Issues  
+
+![Milestone 2](images/milestone2.png)  
+![Milestone 2 Issues](images/milestone2issues.png)
+
 
 ### B. Project Board
 
-![Project Board](images/project-board.png)  
+![Project Board](images/projectboard.png)  
 
 ### C. Branching
 
-![Branching](images/branch-list.png)  
+![Branching](images/branchlist.png)  
 
 ### D. Pull Requests
 
-![Pull Requests](images/pull-requests.png)  
+![Pull Requests](images/pullrequest.png)  
+![Successfull Merge](images/successfullmerge.png)
 
 ### E. Merge Conflict Resolution
 
-![Merge Conflict](images/merge-conflict.png)  
+![Merge Conflict](images/mergeconflict.png)  
