@@ -2,51 +2,86 @@
 
 ## 1. Student Details
 
-- **Full Name**:
-- **GitHub Username**:
-- **Email**:
+- **Full Name**: Maryfancy Kariuki  
+- **Admission Number**: 150828 
+- **GitHub Username**: fancykariuki  
+- **Email**: <maryfancy.kariuki@strathmore.edu>  
+
+---
 
 ## 2. Deployed Portfolio Link
 
 - **GitHub Pages URL**:  
-  _(Provide the live link to your deployed portfolio website)_
+ <https://is-project-4th-year.github.io/build-your-portfolio-github-workflow-essentials-fancykariuki/>
+
+---
 
 ## 3. Learnings from the Git Crash Program
 
-List at least **four key concepts or skills** you learned during the Git crash course. For each one, write a brief explanation of how it helped you manage your portfolio project more effectively.
+**What I Thought I'd Learn vs What I Actually Learned**
 
-Example format:
+---
 
-- **Branching**: Helped me separate features and prevent conflicts when working on different sections of the site.
-- _(Continue with other concepts…)_
+### Concept: GitHub Project Boards
+
+- **Expectation 👀**: Looked like something used by large teams for tracking big software projects.
+- **Reality 😅**: It's just a super-friendly task tracker! Dragging issues from “To Do” to “Done” felt like real progress.
+- **Impact 💡**: Helped me stay on track and break down my project into small achievable steps.
+
+---
+
+### Concept: Branching
+
+- **Expectation 👀**: I thought it was only for working on huge codebases.
+- **Reality 😅**: It’s as simple as creating a copy of your code to safely try new features.
+- **Impact 💡**: Allowed me to work on my profile section without worrying about breaking the main website.
+
+---
+
+### Concept: Pull Requests (PRs)
+
+- **Expectation 👀**: Sounded like a complex code review system.
+- **Reality 😅**: It's just a clean way to suggest changes and ask for approval before changing the main codebase.
+- **Impact 💡**: Helped me document and explain the work I did on each feature, and kept my work clean before merging to `main`.
+
+---
+
+### Concept: Merge Conflicts
+
+- **Expectation 👀**: Thought it would crash everything or be impossible to fix.
+- **Reality 😅**: Just needed to read and resolve the conflicting parts.
+- **Impact 💡**: I intentionally triggered and resolved one conflict when two branches edited the same `index.html`.
+
+---
 
 ## 4. Screenshots of Key GitHub Features
 
-Include screenshots that demonstrate how you used GitHub to manage your project. For each screenshot, write a short caption explaining what it shows.
-
-> Upload the screenshots to your GitHub repository and reference them here using Markdown image syntax:
-> (you could just simply copy and paste the image into the Assignment.md)
-
-```markdown
-![Caption](path/to/your/image.png)
-```
-
 ### A. Milestones and Issues
 
-- Screenshot showing your milestone(s) and the issues linked to it.
+#### Milestone 1 and its Issues  
+
+![Milestone 1](images/milestone1.png)  
+![Milestone 1 Issues](images/milestone1issues.png)
+
+#### Milestone 2 and its Issues  
+
+![Milestone 2](images/milestone2.png)  
+![Milestone 2 Issues](images/milestone2issues.png)
+
 
 ### B. Project Board
 
-- Screenshot of your GitHub Project Board with issues organized into columns (e.g., To Do, In Progress, Done).
+![Project Board](images/projectboard.png)  
 
 ### C. Branching
 
-- Screenshot showing your branch list with meaningful naming.
+![Branching](images/branchlist.png)  
 
 ### D. Pull Requests
 
-- Screenshot of a pull request that’s either open or merged and linked to a related issue.
+![Pull Requests](images/pullrequest.png)  
+![Successfull Merge](images/successfullmerge.png)
 
 ### E. Merge Conflict Resolution
 
-- Screenshot of a resolved merge conflict (in a pull request, commit history, or your local terminal/GitHub Desktop).
+![Merge Conflict](images/mergeconflict.png)  
